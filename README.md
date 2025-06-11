@@ -26,4 +26,24 @@ launch ec2 instance
 
 
 
-CleanUp
+## CleanUp
+VPC
+![alt text](image-14.png)
+
+subnet
+![alt text](image-13.png)
+
+internet gateway
+![alt text](image-12.png)
+
+route table
+![alt text](image-11.png)
+
+security group
+![alt text](image-10.png)
+
+ec2
+![alt text](image-9.png)
+
+key pair
+![alt text](image-8.png)
